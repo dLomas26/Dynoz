@@ -38,6 +38,3 @@ This repository contains the redesigned frontend implementation with enhanced UI
 - **Deployment:** Vercel  
 
 ---
-
-## 📂 Project Structure
-
